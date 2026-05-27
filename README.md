@@ -72,6 +72,15 @@ Fuse rating calculation for field and armature:
 
 <img width="1280" height="954" alt="WhatsApp Image 2026-05-24 at 6 59 23 PM (1)" src="https://github.com/user-attachments/assets/46b9f734-f7bd-4666-9597-f58a498b7298" />
 
+## Open circuit:
+
+<img width="810" height="717" alt="image" src="https://github.com/user-attachments/assets/2ae62cb2-5078-45c8-b325-a47eca84c6e0" />
+
+## Load circuit:
+
+<img width="941" height="740" alt="image" src="https://github.com/user-attachments/assets/a5e4f105-8541-4974-beb5-05165eca3284" />
+
+
 ## Result:
 
 The load test on separately excited generators and to obtain the characteristics was verified.
